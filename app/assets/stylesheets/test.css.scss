@@ -29,15 +29,14 @@ a {
 
 .search {
   background-color: #F0F0F0;
-  padding: 20px;
+  padding: 10px;
   font-family: arial;
   font-size: 14px; 
 }
 .filters {
-  border-bottom-width: 1px;
-  border-bottom-color: #CCCCCC;
-  border-bottom-style: solid;
+  border-bottom: 1px #CCCCCC solid;
   font-size: 10px;
+  text-align: center;
 }
 .filters li {
   display: inline-block;
